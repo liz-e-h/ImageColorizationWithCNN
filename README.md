@@ -12,8 +12,6 @@ This project focuses on colorizing grayscale images using deep learning techniqu
 - [Results and Limitations](#results-and-limitations)
 - [Future Work](#future-work)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
