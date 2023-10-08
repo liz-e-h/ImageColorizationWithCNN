@@ -1,5 +1,7 @@
 # Grayscale Image Colorization with Deep Learning
 
+![Example Image](ModelArchitecture.png)
+
 This project focuses on colorizing grayscale images using deep learning techniques. The goal is to convert black and white images into colorized versions while preserving the original content and maintaining realism in the colors used. This task has applications in various domains, including photography, cinematography, medical imaging, and more.
 
 ## Table of Contents
